@@ -11,6 +11,6 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 
 ## References
 
-Deployed Website:
+Deployed Website: https://chriswiesanjaya-shadetown.netlify.app/
 
 Tutorial: [Scrimba: Introduction to ES6+](https://scrimba.com/introduction-to-es6-c0t)
